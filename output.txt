@@ -1,0 +1,17 @@
+Components in the circuit are: 
+Resistor R1
+Inductor I1
+Resistor R2
+Junctions in the circuit are: 
+Node N1
+Node N2
+Node N3
+Node N4
+Node N5
+Connections in the circuit are: 
+R1 is between Node3 and Node0
+I1 is between Node4 and Node3
+R2 is between Node2 and Node3
+Node0 and Node2 are connected
+Node1 and Node4 are connected
+Node1 and Node0 are connected
